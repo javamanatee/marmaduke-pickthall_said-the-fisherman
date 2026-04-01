@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
-	<search-key-group href="text/glossary.xhtml#abd">
-		<match value="abd"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#abu">
 		<match value="abu"/>
 	</search-key-group>
@@ -18,7 +15,9 @@
 		<match value="ayûb"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bara">
-		<match value="bara"/>
+		<match value="bara">
+			<value value="baras"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#basha">
 		<match value="basha"/>
@@ -32,16 +31,16 @@
 	<search-key-group href="text/glossary.xhtml#caimmacam">
 		<match value="caimmacàm"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#damashe-ush-sham">
+	<search-key-group href="text/glossary.xhtml#damashe-ush-sham-or-simply-es-sham">
 		<match value="Damashe-ush-Shâm">
-			<value value="Es-Shâm"/>
+			<value value="es-Shâm"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#daud">
-		<match value="Daûd"/>
+		<match value="daûd"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dejil">
-		<match value="dejil"/>
+		<match value="dejìl"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#din">
 		<match value="dìn"/>
@@ -64,14 +63,14 @@
 		<match value="eljizar"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#el-khalil">
-		<match value="el khalil"/>
+		<match value="el khalìl"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#emir">
 		<match value="emìr"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fellah">
 		<match value="fellah">
-			<value value="fellahin"/>
+			<value value="fellahìn"/>
 		</match>
 		<search-key-group href="text/glossary.xhtml#fulan">
 			<match value="fulân"/>
@@ -94,9 +93,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#istanbul">
 		<match value="istanbûl"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#jebel-taric">
-		<match value="jebel târic"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#jinni">
 		<match value="jinni">
@@ -124,7 +120,7 @@
 	<search-key-group href="text/glossary.xhtml#masr">
 		<match value="masr"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ma-sh-allah">
+	<search-key-group href="text/glossary.xhtml#ma-shallah">
 		<match value="ma sh’allah"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mehkemeh">
@@ -171,26 +167,20 @@
 	<search-key-group href="text/glossary.xhtml#tarabulus">
 		<match value="tarabulus"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#chief-of-mountains">
+	<search-key-group href="text/glossary.xhtml#the-chief-of-mountains-jebel-ush-sheikh">
 		<match value="the chief of mountains"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#city-of-peace">
+	<search-key-group href="text/glossary.xhtml#the-city-of-peace-medinat-us-salam">
 		<match value="the city of peace"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#the-mountain">
+	<search-key-group href="text/glossary.xhtml#the-mountain-el-jebel">
 		<match value="the mountain"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#sunset-land">
+	<search-key-group href="text/glossary.xhtml#the-sunset-land-el-maghrib-el-gharb">
 		<match value="the sunset-land"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#waly">
 		<match value="wâly"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#wilayet">
-		<match value="wilayet"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#yafez">
-		<match value="yafez"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#y-allah">
 		<match value="y’allah"/>
