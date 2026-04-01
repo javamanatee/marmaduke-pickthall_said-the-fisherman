@@ -15,11 +15,26 @@
 }
 /* end all epigraphs */
 
+/* epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* end epigraphs in section headers */
+
 /* era */
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
-/* end era*/
+/* end era */
 
 /* glossary */
 dl{
