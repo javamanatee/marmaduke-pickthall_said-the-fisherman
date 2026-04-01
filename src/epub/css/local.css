@@ -20,3 +20,17 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 /* end era*/
+
+/* glossary */
+dl{
+	margin: 1em 0;
+}
+
+dd{
+	margin-left: 40px;
+}
+
+dd + dt{
+	margin-top: 1em;
+}
+/* end glossary */
